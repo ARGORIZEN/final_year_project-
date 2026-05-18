@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ prediction.stock_name if prediction is not string else 'Error' }} — StockPredictor</title>
+    <meta name="description" content="AI-powered stock analysis and prediction for NIFTY 50 companies.">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/static/result-light.css">
+</head>
+
+<body class="light-theme">
+    <!-- Top Nav Bar (dark) -->
+    <nav class="result-nav">
+        <a href="/dashboard" class="result-nav-logo">Stock<span>Predictor</span></a>
+        <div class="result-nav-right">
+            <a href="/dashboard" class="nav-back-btn"><i class="fas fa-arrow-left"></i> Back to Search</a>
+            <span class="nav-divider"></span>
+            <span class="nav-user"><i class="fas fa-circle-user"></i> {{ session.get('user', 'User') }}</span>
+            <a href="/logout" class="nav-link logout"><i class="fas fa-sign-out-alt"></i> Logout</a>
+        </div>
+    </nav>
+
+    {% if prediction is string and prediction.startswith('Error') %}
+    <div class="result-container">
+        <div class="error-banner">
+            <i class="fas fa-triangle-exclamation"></i>
+            <p>{{ prediction }}</p>
+            <a href="/dashboard"><i class="fas fa-arrow-left"></i> Back to Search</a>
+        </div>
+    </div>
+    {% else %}
+    <div class="result-container">
+        <div class="result-grid">
+            <!-- LEFT SIDEBAR -->
+            <aside class="sidebar">
+                <div class="sidebar-inner">
+                    <div class="sidebar-ticker-block">
+                        <h1 class="sidebar-ticker">{{ prediction.ticker.replace('.NS', '') }}</h1>
+                    </div>
+                    <div class="sidebar-date">AS OF<br><span>{{ prediction.chart_data.dates[-1] }}</span></div>
+
+                    <div class="sidebar-stats">
+                        <div class="sb-row">
+                            <span class="sb-label">PRICE</span>
+                            <span class="sb-val sb-price">₹{{ "%.2f"|format(prediction.current_price) }}</span>
+                        </div>
+                        <div class="sb-row">
+                            <span class="sb-label">CHANGE</span>
+                            <span class="sb-val {{ 'sb-green' if prediction.daily_return_pct >= 0 else 'sb-red' }}">
+                                {{ prediction.daily_return_pct }}%
+                            </span>
+                        </div>
+                        <div class="sb-row">
+                            <span class="sb-label">DAY HIGH</span>
+                            <span class="sb-val">₹{{ prediction.day_high }}</span>
+                        </div>
+                        <div class="sb-row">
+                            <span class="sb-label">DAY LOW</span>
+                            <span class="sb-val">₹{{ prediction.day_low }}</span>
+                        </div>
+                        <div class="sb-row">
+                            <span class="sb-label">VOLUME</span>
+                            <span class="sb-val">{{ "{:,}".format(prediction.volume) }}</span>
+                        </div>
+                    </div>
+
+                    <!-- AI Prediction -->
+                    <div class="sb-prediction {{ prediction.trend.lower() }}">
+                        <div class="sb-pred-title">AI Prediction</div>
+                        <div class="sb-pred-trend">
+                            {% if prediction.trend == 'Bullish' %}
+                            <i class="fas fa-arrow-trend-up"></i>
+                            {% else %}
+                            <i class="fas fa-arrow-trend-down"></i>
+                            {% endif %}
+                            {{ prediction.trend }}
+                        </div>
+                        <div class="sb-pred-conf">Confidence: {{ prediction.confidence }}</div>
+                    </div>
+
+                    <!-- Technical Indicators Table -->
+                    <div class="sb-section-title">Technical Indicators</div>
+                    <table class="sb-indicators">
+                        <tr>
+                            <td class="sb-ind-label">RSI (14)</td>
+                            <td class="sb-ind-val">{{ prediction.rsi }}</td>
+                            <td><span class="sb-tag {{ prediction.rsi_zone.lower() }}">{{ prediction.rsi_zone }}</span></td>
+                        </tr>
+                        <tr>
+                            <td class="sb-ind-label">MACD</td>
+                            <td class="sb-ind-val">{{ prediction.macd }}</td>
+                            <td><span class="sb-tag {{ prediction.macd_trend.lower() }}">{{ prediction.macd_trend }}</span></td>
+                        </tr>
+                        <tr>
+                            <td class="sb-ind-label">Volatility</td>
+                            <td class="sb-ind-val">{{ prediction.volatility }}%</td>
+                            <td><span class="sb-tag {{ prediction.vol_level.lower() }}">{{ prediction.vol_level }}</span></td>
+                        </tr>
+                        <tr>
+                            <td class="sb-ind-label">Vol Ratio</td>
+                            <td class="sb-ind-val">{{ prediction.vol_ratio }}x</td>
+                            <td><span class="sb-tag neutral">—</span></td>
+                        </tr>
+                    </table>
+                </div>
+            </aside>
+
+            <!-- MAIN CONTENT -->
+            <div class="main-content">
+                <!-- Why Is Stock Up/Down Block -->
+                <section class="why-block">
+                    <h2 class="why-title">
+                        Why {{ prediction.stock_name }} ({{ prediction.ticker.replace('.NS', '') }}) Is
+                        <span class="{{ 'why-up' if prediction.change_30d >= 0 else 'why-down' }}">
+                            {{ prediction.direction }} {{ '+' if prediction.change_30d >= 0 else '' }}{{ prediction.change_30d }}%
+                        </span>
+                        in the Last 30 Days
+                    </h2>
+
+                    <h3 class="why-sub">Key Takeaways</h3>
+                    <ul class="why-bullets">
+                        {% for bullet in prediction.analysis_bullets %}
+                        <li>{{ bullet }}</li>
+                        {% endfor %}
+                    </ul>
+                </section>
+
+                <!-- Company Overview Header -->
+                <section class="company-header">
+                    <h2 class="company-title">
+                        {{ prediction.stock_name }} ({{ prediction.ticker.replace('.NS', '') }})
+                        <span>Stock Price, Chart &amp; AI Forecast</span>
+                    </h2>
+                    <p class="company-industry">Industry: <span>#NSE &middot; NIFTY 50</span></p>
+                </section>
+
+                <!-- Chart -->
+                <section class="chart-section">
+                    <div class="chart-top">
+                        <div class="chart-badge">
+                            <div class="chart-badge-icon"><i class="fas fa-robot"></i></div>
+                            <div>
+                                <div class="chart-badge-title">AI-Powered</div>
+                                <div class="chart-badge-sub">Price chart &amp; trend analysis</div>
+                            </div>
+                        </div>
+                        <div class="period-buttons">
+                            <button class="per-btn" data-days="7">1W</button>
+                            <button class="per-btn active" data-days="30">1M</button>
+                            <button class="per-btn" data-days="60">2M</button>
+                            <button class="per-btn" data-days="0">ALL</button>
+                        </div>
+                    </div>
+                    <div class="chart-wrap">
+                        <canvas id="chart"></canvas>
+                    </div>
+                </section>
+
+                <!-- Analysis Cards Row -->
+                <div class="analysis-row">
+                    <!-- RSI Gauge -->
+                    <section class="analysis-box">
+                        <h4>RSI (14-Day) Gauge</h4>
+                        <div class="rsi-gauge-wrap">
+                            <canvas id="rsiGauge" width="200" height="120"></canvas>
+                            <div class="rsi-value">{{ prediction.rsi }}</div>
+                        </div>
+                        <div class="rsi-zone-badge {{ prediction.rsi_zone.lower() }}">{{ prediction.rsi_zone }}</div>
+                        <p class="analysis-note">
+                            {% if prediction.rsi > 70 %}
+                            RSI above 70 indicates the stock may be overbought. Consider potential reversal.
+                            {% elif prediction.rsi < 30 %}
+                            RSI below 30 indicates the stock may be oversold. Potential buying opportunity.
+                            {% else %}
+                            RSI in neutral zone. No extreme momentum detected.
+                            {% endif %}
+                        </p>
+                    </section>
+
+                    <!-- MACD & Range -->
+                    <section class="analysis-box">
+                        <h4>MACD Signal &amp; Day Range</h4>
+                        <div class="macd-display {{ prediction.macd_trend.lower() }}">
+                            {% if prediction.macd_trend == 'Bullish' %}
+                            <i class="fas fa-circle-up"></i>
+                            {% else %}
+                            <i class="fas fa-circle-down"></i>
+                            {% endif %}
+                            <span class="macd-num">{{ prediction.macd }}</span>
+                            <span class="macd-trend-tag">{{ prediction.macd_trend }}</span>
+                        </div>
+                        <div class="day-range-section">
+                            <div class="range-title">Day's Price Range</div>
+                            <div class="range-labels">
+                                <span>₹{{ prediction.day_low }}</span>
+                                <span>₹{{ prediction.day_high }}</span>
+                            </div>
+                            <div class="range-bar-light">
+                                <div class="range-fill-light" id="rangeFill"></div>
+                                <div class="range-marker-light" id="rangeMarker"></div>
+                            </div>
+                        </div>
+                        <div class="mini-stats-light">
+                            <div class="msl-item">
+                                <span class="msl-label">Volatility</span>
+                                <span class="msl-val">{{ prediction.volatility }}%
+                                    <small class="sb-tag {{ prediction.vol_level.lower() }}">{{ prediction.vol_level }}</small>
+                                </span>
+                            </div>
+                            <div class="msl-item">
+                                <span class="msl-label">Daily Return</span>
+                                <span class="msl-val {{ 'sb-green' if prediction.daily_return_pct >= 0 else 'sb-red' }}">{{ prediction.daily_return_pct }}%</span>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Footer -->
+    <footer class="result-footer">
+        <div class="result-footer-inner">
+            <p>StockPredictor uses machine learning models trained on historical data. Predictions are not financial advice.</p>
+        </div>
+    </footer>
+
+    <script>
+        window.chartData = {% if prediction is not string and prediction.chart_data %}{{ prediction.chart_data | tojson }}{% else %}null{% endif %};
+        window.trendColor = {% if prediction is not string and prediction.trend == 'Bullish' %}'#16a34a'{% else %}'#dc2626'{% endif %};
+        window.rsiValue = {% if prediction is not string %}{{ prediction.rsi }}{% else %}0{% endif %};
+        window.currentPrice = {% if prediction is not string %}{{ prediction.current_price }}{% else %}0{% endif %};
+        window.dayHigh = {% if prediction is not string %}{{ prediction.day_high }}{% else %}0{% endif %};
+        window.dayLow = {% if prediction is not string %}{{ prediction.day_low }}{% else %}0{% endif %};
+    </script>
+    <script src="/static/script.js"></script>
+</body>
+
+</html>

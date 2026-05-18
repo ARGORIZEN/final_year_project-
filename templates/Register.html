@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register — StockPredictor</title>
+    <meta name="description" content="Create your StockPredictor account — get AI-powered stock market predictions and sentiment analysis.">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <!-- Background layers -->
+    <div class="grid-bg"></div>
+    <canvas id="particles-canvas"></canvas>
+
+    <div class="card">
+        <div class="auth-icon">
+            <i class="fas fa-user-plus" style="color: white;"></i>
+        </div>
+        <h2>Create Account</h2>
+        <p class="auth-subtitle">Join StockPredictor and start analyzing market trends with AI</p>
+
+        {% if error %}
+        <div class="flash-message error">
+            <i class="fas fa-exclamation-circle"></i> {{ error }}
+        </div>
+        {% endif %}
+
+        <form method="post" id="registerForm">
+            <div class="input-group">
+                <i class="fas fa-user"></i>
+                <input type="text" name="username" id="username" placeholder="Choose a username" required autocomplete="username">
+            </div>
+            <div class="input-group">
+                <i class="fas fa-lock"></i>
+                <input type="password" name="password" id="password" placeholder="Create a password" required autocomplete="new-password">
+            </div>
+            <button type="submit" id="registerBtn">
+                <i class="fas fa-rocket"></i>&nbsp; Get Started
+            </button>
+        </form>
+
+        <div class="divider">or</div>
+
+        <p class="auth-link">
+            Already have an account? <a href="/login">Sign In <i class="fas fa-arrow-right" style="font-size: 0.75rem;"></i></a>
+        </p>
+    </div>
+
+    <script>
+        // Particles animation
+        (function() {
+            const canvas = document.getElementById('particles-canvas');
+            const ctx = canvas.getContext('2d');
+            let particles = [];
+            const PARTICLE_COUNT = 50;
+
+            function resize() {
+                canvas.width = window.innerWidth;
+                canvas.height = window.innerHeight;
+            }
+            resize();
+            window.addEventListener('resize', resize);
+
+            class Particle {
+                constructor() { this.reset(); }
+                reset() {
+                    this.x = Math.random() * canvas.width;
+                    this.y = Math.random() * canvas.height;
+                    this.vx = (Math.random() - 0.5) * 0.3;
+                    this.vy = (Math.random() - 0.5) * 0.3;
+                    this.radius = Math.random() * 1.5 + 0.5;
+                    this.opacity = Math.random() * 0.4 + 0.1;
+                }
+                update() {
+                    this.x += this.vx;
+                    this.y += this.vy;
+                    if (this.x < 0 || this.x > canvas.width) this.vx *= -1;
+                    if (this.y < 0 || this.y > canvas.height) this.vy *= -1;
+                }
+                draw() {
+                    ctx.beginPath();
+                    ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
+                    ctx.fillStyle = `rgba(168, 85, 247, ${this.opacity})`;
+                    ctx.fill();
+                }
+            }
+
+            for (let i = 0; i < PARTICLE_COUNT; i++) particles.push(new Particle());
+
+            function connectParticles() {
+                for (let i = 0; i < particles.length; i++) {
+                    for (let j = i + 1; j < particles.length; j++) {
+                        const dx = particles[i].x - particles[j].x;
+                        const dy = particles[i].y - particles[j].y;
+                        const dist = Math.sqrt(dx * dx + dy * dy);
+                        if (dist < 120) {
+                            ctx.beginPath();
+                            ctx.moveTo(particles[i].x, particles[i].y);
+                            ctx.lineTo(particles[j].x, particles[j].y);
+                            ctx.strokeStyle = `rgba(168, 85, 247, ${0.06 * (1 - dist / 120)})`;
+                            ctx.lineWidth = 0.5;
+                            ctx.stroke();
+                        }
+                    }
+                }
+            }
+
+            function animate() {
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                particles.forEach(p => { p.update(); p.draw(); });
+                connectParticles();
+                requestAnimationFrame(animate);
+            }
+            animate();
+        })();
+
+        // Loading state on form submit
+        document.getElementById('registerForm').addEventListener('submit', function() {
+            const btn = document.getElementById('registerBtn');
+            btn.classList.add('loading');
+            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i>&nbsp; Creating account...';
+        });
+    </script>
+</body>
+</html>
