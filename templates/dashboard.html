@@ -29,8 +29,8 @@
     <div class="dash-container">
         <section class="dash-hero">
             <div class="hero-badge"><i class="fas fa-robot"></i> AI-Powered Stock Analysis</div>
-            <h1 class="hero-title">Search <span>NIFTY 50</span> Stocks</h1>
-            <p class="hero-sub">Get AI predictions, technical analysis, and price charts for all NIFTY 50 companies.</p>
+            <h1 class="hero-title">Search <span>500+ Stocks</span></h1>
+            <p class="hero-sub">Get AI predictions, technical analysis, and price charts for India's top 500 companies across all segments.</p>
 
             <!-- Search Bar -->
             <form method="post" action="/result" id="analysisForm" class="dash-search-form">
@@ -72,10 +72,16 @@
             </h2>
             <div class="stocks-grid">
                 {% for s in stocks %}
-                <button type="button" class="stock-card" data-ticker="{{ s.short }}">
+                <button type="button" class="stock-card" data-ticker="{{ s.short }}" data-prediction="{{ s.get('prediction', 'Unknown') }}">
                     <div class="stock-card-ticker">{{ s.short }}</div>
                     <div class="stock-card-name">{{ s.name }}</div>
+                    {% if s.get('prediction') %}
+                    <div class="stock-card-prediction {% if s.prediction == 'Bullish' %}bullish{% else %}bearish{% endif %}">
+                        {{ s.prediction }} ({{ s.confidence }})
+                    </div>
+                    {% else %}
                     <div class="stock-card-tag">NSE</div>
+                    {% endif %}
                 </button>
                 {% endfor %}
             </div>

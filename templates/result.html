@@ -83,6 +83,38 @@
                         <div class="sb-pred-conf">Confidence: {{ prediction.confidence }}</div>
                     </div>
 
+                    <!-- Model Freshness Info -->
+                    <div class="sb-model-freshness {{ 'stale' if prediction.is_stale else 'fresh' }}">
+                        <div class="sb-fresh-title">
+                            {% if prediction.is_stale %}
+                            <i class="fas fa-triangle-exclamation"></i> Model Stale
+                            {% else %}
+                            <i class="fas fa-circle-check"></i> Model Fresh
+                            {% endif %}
+                        </div>
+                        <div class="sb-fresh-detail">
+                            {% if prediction.model_age_days is not none %}
+                            <span class="sb-fresh-age">{{ prediction.model_age_days }} days old</span>
+                            {% else %}
+                            <span class="sb-fresh-age">Age unknown</span>
+                            {% endif %}
+                        </div>
+                        {% if prediction.last_trained %}
+                        <div class="sb-fresh-date">Trained: {{ prediction.last_trained }}</div>
+                        {% endif %}
+                        {% if prediction.is_stale %}
+                        <div class="sb-fresh-warn">
+                            Model is older than {{ prediction.max_age_days }} days. Auto-retrain scheduled.
+                        </div>
+                        <form action="/retrain" method="POST" class="sb-retrain-form">
+                            <input type="hidden" name="ticker" value="{{ prediction.ticker }}">
+                            <button type="submit" class="sb-retrain-btn">
+                                <i class="fas fa-rotate"></i> Retrain Now
+                            </button>
+                        </form>
+                        {% endif %}
+                    </div>
+
                     <!-- Technical Indicators Table -->
                     <div class="sb-section-title">Technical Indicators</div>
                     <table class="sb-indicators">

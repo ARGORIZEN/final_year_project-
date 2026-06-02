@@ -1,0 +1,4502 @@
+{
+  "SHYAMMETL.NS": {
+    "last_trained": "2026-05-19T21:36:15.258067+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SNOWMAN.NS": {
+    "last_trained": "2026-05-19T21:36:15.269423+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SOLARA.NS": {
+    "last_trained": "2026-05-19T21:36:15.279658+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SONATSOFTW.NS": {
+    "last_trained": "2026-05-19T21:36:15.290381+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SOUTHBANK.NS": {
+    "last_trained": "2026-05-19T21:36:15.300421+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SPANDANA.NS": {
+    "last_trained": "2026-05-19T21:36:15.311946+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SPECIALITY.NS": {
+    "last_trained": "2026-05-19T21:36:15.322591+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SPTL.NS": {
+    "last_trained": "2026-05-19T21:36:15.334014+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SSWL.NS": {
+    "last_trained": "2026-05-19T21:36:15.344142+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "STAR.NS": {
+    "last_trained": "2026-05-19T21:36:15.356864+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "STCINDIA.NS": {
+    "last_trained": "2026-05-19T21:36:15.369251+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "STEELXIND.NS": {
+    "last_trained": "2026-05-19T21:36:15.380526+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "STYRENIX.NS": {
+    "last_trained": "2026-05-19T21:36:15.393020+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SUBROS.NS": {
+    "last_trained": "2026-05-19T21:36:15.405882+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SUDARSCHEM.NS": {
+    "last_trained": "2026-05-19T21:36:15.418579+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SUKHJITS.NS": {
+    "last_trained": "2026-05-19T21:36:15.430401+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SURYAROSNI.NS": {
+    "last_trained": "2026-05-19T21:36:15.442998+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SUULD.NS": {
+    "last_trained": "2026-05-19T21:36:15.457972+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SWSOLAR.NS": {
+    "last_trained": "2026-05-19T21:36:15.469983+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SYMPHONY.NS": {
+    "last_trained": "2026-05-19T21:36:15.481963+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SYNCOMF.NS": {
+    "last_trained": "2026-05-19T21:36:15.494710+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TARSONS.NS": {
+    "last_trained": "2026-05-19T21:36:15.508046+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TCIEXP.NS": {
+    "last_trained": "2026-05-19T21:36:15.523007+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TDPOWERSYS.NS": {
+    "last_trained": "2026-05-19T21:36:15.536585+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TEXRAIL.NS": {
+    "last_trained": "2026-05-19T21:36:15.549207+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "THYROCARE.NS": {
+    "last_trained": "2026-05-19T21:36:15.562688+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TIRUMALCHM.NS": {
+    "last_trained": "2026-05-19T21:36:15.576958+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TNPETRO.NS": {
+    "last_trained": "2026-05-19T21:36:15.591055+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TPLPLASTEH.NS": {
+    "last_trained": "2026-05-19T21:36:15.604587+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TREEHOUSE.NS": {
+    "last_trained": "2026-05-19T21:36:15.615871+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TRIVENI.NS": {
+    "last_trained": "2026-05-19T21:36:15.630564+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RELIANCE.NS": {
+    "last_trained": "2026-05-19T21:39:22.313791+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TCS.NS": {
+    "last_trained": "2026-05-19T21:39:22.330386+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HDFCBANK.NS": {
+    "last_trained": "2026-05-19T21:39:22.344656+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INFY.NS": {
+    "last_trained": "2026-05-19T21:39:22.360484+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ICICIBANK.NS": {
+    "last_trained": "2026-05-19T21:39:22.375288+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HINDUNILVR.NS": {
+    "last_trained": "2026-05-19T21:39:22.391253+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ITC.NS": {
+    "last_trained": "2026-05-19T21:39:22.406849+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SBIN.NS": {
+    "last_trained": "2026-05-19T21:39:22.421512+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BHARTIARTL.NS": {
+    "last_trained": "2026-05-19T21:39:22.436521+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KOTAKBANK.NS": {
+    "last_trained": "2026-05-19T21:39:22.451785+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LT.NS": {
+    "last_trained": "2026-05-19T21:39:22.468297+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AXISBANK.NS": {
+    "last_trained": "2026-05-19T21:39:22.484704+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ASIANPAINT.NS": {
+    "last_trained": "2026-05-19T21:39:22.500625+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MARUTI.NS": {
+    "last_trained": "2026-05-19T21:39:22.516017+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TITAN.NS": {
+    "last_trained": "2026-05-19T21:39:22.531744+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SUNPHARMA.NS": {
+    "last_trained": "2026-05-19T21:39:22.547741+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BAJFINANCE.NS": {
+    "last_trained": "2026-05-19T21:39:22.563120+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "WIPRO.NS": {
+    "last_trained": "2026-05-19T21:39:22.580058+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ULTRACEMCO.NS": {
+    "last_trained": "2026-05-19T21:39:22.594033+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ONGC.NS": {
+    "last_trained": "2026-05-19T21:39:22.609273+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NTPC.NS": {
+    "last_trained": "2026-05-19T21:39:22.623916+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JSWSTEEL.NS": {
+    "last_trained": "2026-05-19T21:39:22.638550+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "POWERGRID.NS": {
+    "last_trained": "2026-05-19T21:39:22.654432+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "M&M.NS": {
+    "last_trained": "2026-05-19T21:39:22.671799+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ADANIENT.NS": {
+    "last_trained": "2026-05-19T21:39:22.689460+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ADANIPORTS.NS": {
+    "last_trained": "2026-05-19T21:39:22.705100+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TATASTEEL.NS": {
+    "last_trained": "2026-05-19T21:39:22.721506+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HCLTECH.NS": {
+    "last_trained": "2026-05-19T21:39:22.738564+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BAJAJFINSV.NS": {
+    "last_trained": "2026-05-19T21:39:22.754814+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "COALINDIA.NS": {
+    "last_trained": "2026-05-19T21:39:22.773422+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TECHM.NS": {
+    "last_trained": "2026-05-19T21:39:22.791545+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INDUSINDBK.NS": {
+    "last_trained": "2026-05-19T21:39:22.806852+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HINDALCO.NS": {
+    "last_trained": "2026-05-19T21:39:22.822574+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DRREDDY.NS": {
+    "last_trained": "2026-05-19T21:39:22.839224+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CIPLA.NS": {
+    "last_trained": "2026-05-19T21:39:22.855501+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BPCL.NS": {
+    "last_trained": "2026-05-19T21:39:22.870525+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "EICHERMOT.NS": {
+    "last_trained": "2026-05-19T21:39:22.886425+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DIVISLAB.NS": {
+    "last_trained": "2026-05-19T21:39:22.901425+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BRITANNIA.NS": {
+    "last_trained": "2026-05-19T21:39:22.918264+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "APOLLOHOSP.NS": {
+    "last_trained": "2026-05-19T21:39:22.935218+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GRASIM.NS": {
+    "last_trained": "2026-05-19T21:39:22.951463+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NESTLEIND.NS": {
+    "last_trained": "2026-05-19T21:39:22.968410+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SBILIFE.NS": {
+    "last_trained": "2026-05-19T21:39:22.982438+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HEROMOTOCO.NS": {
+    "last_trained": "2026-05-19T21:39:22.997087+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TATACONSUM.NS": {
+    "last_trained": "2026-05-19T21:39:23.012696+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BAJAJ-AUTO.NS": {
+    "last_trained": "2026-05-19T21:39:23.028354+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HDFCLIFE.NS": {
+    "last_trained": "2026-05-19T21:39:23.042771+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SHRIRAMFIN.NS": {
+    "last_trained": "2026-05-19T21:39:23.058654+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ADANIGREEN.NS": {
+    "last_trained": "2026-05-19T21:39:23.073381+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AMBUJACEM.NS": {
+    "last_trained": "2026-05-19T21:39:23.086397+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AUROPHARMA.NS": {
+    "last_trained": "2026-05-19T21:39:23.100310+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BAJAJHLDNG.NS": {
+    "last_trained": "2026-05-19T21:39:23.114758+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BANKBARODA.NS": {
+    "last_trained": "2026-05-19T21:39:23.132193+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BEL.NS": {
+    "last_trained": "2026-05-19T21:39:23.148362+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BERGEPAINT.NS": {
+    "last_trained": "2026-05-19T21:39:23.166389+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BIOCON.NS": {
+    "last_trained": "2026-05-19T21:39:23.183210+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BOSCHLTD.NS": {
+    "last_trained": "2026-05-19T21:39:23.199341+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CANBK.NS": {
+    "last_trained": "2026-05-19T21:39:23.215768+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CHOLAFIN.NS": {
+    "last_trained": "2026-05-19T21:39:23.231579+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "COLPAL.NS": {
+    "last_trained": "2026-05-19T21:39:23.247859+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DABUR.NS": {
+    "last_trained": "2026-05-19T21:39:23.261500+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DLF.NS": {
+    "last_trained": "2026-05-19T21:39:23.277121+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GAIL.NS": {
+    "last_trained": "2026-05-19T21:39:23.294526+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GODREJCP.NS": {
+    "last_trained": "2026-05-19T21:39:23.311181+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HAVELLS.NS": {
+    "last_trained": "2026-05-19T21:39:23.326292+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ICICIPRULI.NS": {
+    "last_trained": "2026-05-19T21:39:23.340225+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ICICIGI.NS": {
+    "last_trained": "2026-05-19T21:39:23.356664+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INDUSTOWER.NS": {
+    "last_trained": "2026-05-19T21:39:23.370777+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IOC.NS": {
+    "last_trained": "2026-05-19T21:39:23.384396+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IRCTC.NS": {
+    "last_trained": "2026-05-19T21:39:23.401578+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JINDALSTEL.NS": {
+    "last_trained": "2026-05-19T21:39:23.418740+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LUPIN.NS": {
+    "last_trained": "2026-05-19T21:39:23.435557+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MUTHOOTFIN.NS": {
+    "last_trained": "2026-05-19T21:39:23.449649+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NAUKRI.NS": {
+    "last_trained": "2026-05-19T21:39:23.465558+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NMDC.NS": {
+    "last_trained": "2026-05-19T21:39:23.479286+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PAGEIND.NS": {
+    "last_trained": "2026-05-19T21:39:23.494908+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PERSISTENT.NS": {
+    "last_trained": "2026-05-19T21:39:23.509629+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PETRONET.NS": {
+    "last_trained": "2026-05-19T21:39:23.525082+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PIIND.NS": {
+    "last_trained": "2026-05-19T21:39:23.539588+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PIDILITIND.NS": {
+    "last_trained": "2026-05-19T21:39:23.555631+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PNB.NS": {
+    "last_trained": "2026-05-19T21:39:23.571674+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "POLYCAB.NS": {
+    "last_trained": "2026-05-19T21:39:23.585519+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RECLTD.NS": {
+    "last_trained": "2026-05-19T21:39:23.603969+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SAIL.NS": {
+    "last_trained": "2026-05-19T21:39:23.618942+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SIEMENS.NS": {
+    "last_trained": "2026-05-19T21:39:23.636721+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SRF.NS": {
+    "last_trained": "2026-05-19T21:39:23.650702+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TORNTPHARM.NS": {
+    "last_trained": "2026-05-19T21:39:23.669814+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TRENT.NS": {
+    "last_trained": "2026-05-19T21:39:23.687571+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TVSMOTOR.NS": {
+    "last_trained": "2026-05-19T21:39:23.703085+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "UBL.NS": {
+    "last_trained": "2026-05-19T21:39:23.720077+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "UPL.NS": {
+    "last_trained": "2026-05-19T21:39:23.736355+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "VEDL.NS": {
+    "last_trained": "2026-05-19T21:39:23.752003+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "VOLTAS.NS": {
+    "last_trained": "2026-05-19T21:39:23.768564+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ZYDUSLIFE.NS": {
+    "last_trained": "2026-05-19T21:39:23.787034+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HAL.NS": {
+    "last_trained": "2026-05-19T21:39:23.803266+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AARTIIND.NS": {
+    "last_trained": "2026-05-19T21:39:23.819726+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ABB.NS": {
+    "last_trained": "2026-05-19T21:39:23.837098+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ABCAPITAL.NS": {
+    "last_trained": "2026-05-19T21:39:23.852115+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ABFRL.NS": {
+    "last_trained": "2026-05-19T21:39:23.867628+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ACC.NS": {
+    "last_trained": "2026-05-19T21:39:23.883957+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "APLAPOLLO.NS": {
+    "last_trained": "2026-05-19T21:39:23.900689+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ASTRAL.NS": {
+    "last_trained": "2026-05-19T21:39:23.917615+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ATUL.NS": {
+    "last_trained": "2026-05-19T21:39:23.934597+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AUBANK.NS": {
+    "last_trained": "2026-05-19T21:39:23.947844+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BALKRISIND.NS": {
+    "last_trained": "2026-05-19T21:39:23.964494+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BATAINDIA.NS": {
+    "last_trained": "2026-05-19T21:39:23.981521+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BHEL.NS": {
+    "last_trained": "2026-05-19T21:39:23.998655+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BSOFT.NS": {
+    "last_trained": "2026-05-19T21:39:24.017609+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CAMS.NS": {
+    "last_trained": "2026-05-19T21:39:24.035737+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CANFINHOME.NS": {
+    "last_trained": "2026-05-19T21:39:24.050430+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CDSL.NS": {
+    "last_trained": "2026-05-19T21:39:24.067342+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CESC.NS": {
+    "last_trained": "2026-05-19T21:39:24.084269+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CGPOWER.NS": {
+    "last_trained": "2026-05-19T21:39:24.100770+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CONCOR.NS": {
+    "last_trained": "2026-05-19T21:39:24.115746+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "COROMANDEL.NS": {
+    "last_trained": "2026-05-19T21:39:24.132975+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CROMPTON.NS": {
+    "last_trained": "2026-05-19T21:39:24.150652+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CUMMINSIND.NS": {
+    "last_trained": "2026-05-19T21:39:24.170507+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DEEPAKNTR.NS": {
+    "last_trained": "2026-05-19T21:39:24.187999+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DIXON.NS": {
+    "last_trained": "2026-05-19T21:39:24.205186+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ELGIEQUIP.NS": {
+    "last_trained": "2026-05-19T21:39:24.221810+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "EMAMILTD.NS": {
+    "last_trained": "2026-05-19T21:39:24.236145+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ESCORTS.NS": {
+    "last_trained": "2026-05-19T21:39:24.250976+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "EXIDEIND.NS": {
+    "last_trained": "2026-05-19T21:39:24.267069+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "FEDERALBNK.NS": {
+    "last_trained": "2026-05-19T21:39:24.283342+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "FORTIS.NS": {
+    "last_trained": "2026-05-19T21:39:24.301023+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GLAXO.NS": {
+    "last_trained": "2026-05-19T21:39:24.318475+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GMRAIRPORT.NS": {
+    "last_trained": "2026-05-19T21:39:24.336469+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GODREJIND.NS": {
+    "last_trained": "2026-05-19T21:39:24.352824+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GODREJPROP.NS": {
+    "last_trained": "2026-05-19T21:39:24.367205+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GRANULES.NS": {
+    "last_trained": "2026-05-19T21:39:24.382578+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GSPL.NS": {
+    "last_trained": "2026-05-19T21:39:24.399956+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GUJGASLTD.NS": {
+    "last_trained": "2026-05-19T21:39:24.415591+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HFCL.NS": {
+    "last_trained": "2026-05-19T21:39:24.433641+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HONAUT.NS": {
+    "last_trained": "2026-05-19T21:39:24.452068+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IDFCFIRSTB.NS": {
+    "last_trained": "2026-05-19T21:39:24.471646+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IGL.NS": {
+    "last_trained": "2026-05-19T21:39:24.486441+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INDHOTEL.NS": {
+    "last_trained": "2026-05-19T21:39:24.503692+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INDIAMART.NS": {
+    "last_trained": "2026-05-19T21:39:24.522426+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INOXWIND.NS": {
+    "last_trained": "2026-05-19T21:39:24.544463+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IRFC.NS": {
+    "last_trained": "2026-05-19T21:39:24.563645+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JKCEMENT.NS": {
+    "last_trained": "2026-05-19T21:39:24.584236+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JUBLFOOD.NS": {
+    "last_trained": "2026-05-19T21:39:24.603448+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KAJARIACER.NS": {
+    "last_trained": "2026-05-19T21:39:24.623714+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KALYANKJIL.NS": {
+    "last_trained": "2026-05-19T21:39:24.644503+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KANSAINER.NS": {
+    "last_trained": "2026-05-19T21:39:24.664099+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KEC.NS": {
+    "last_trained": "2026-05-19T21:39:24.686481+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KPITTECH.NS": {
+    "last_trained": "2026-05-19T21:39:24.719403+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LALPATHLAB.NS": {
+    "last_trained": "2026-05-19T21:39:24.746168+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LAURUSLABS.NS": {
+    "last_trained": "2026-05-19T21:39:24.774379+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LICHSGFIN.NS": {
+    "last_trained": "2026-05-19T21:39:24.805606+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LTTS.NS": {
+    "last_trained": "2026-05-19T21:39:24.827555+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MARICO.NS": {
+    "last_trained": "2026-05-19T21:39:24.848373+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MAXHEALTH.NS": {
+    "last_trained": "2026-05-19T21:39:24.868215+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MCX.NS": {
+    "last_trained": "2026-05-19T21:39:24.887380+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "METROPOLIS.NS": {
+    "last_trained": "2026-05-19T21:39:24.905331+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MFSL.NS": {
+    "last_trained": "2026-05-19T21:39:24.923325+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MOTHERSON.NS": {
+    "last_trained": "2026-05-19T21:39:24.940925+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MPHASIS.NS": {
+    "last_trained": "2026-05-19T21:39:24.960093+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MRF.NS": {
+    "last_trained": "2026-05-19T21:39:24.976657+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NATCOPHARM.NS": {
+    "last_trained": "2026-05-19T21:39:24.994053+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NBCC.NS": {
+    "last_trained": "2026-05-19T21:39:25.016097+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NCC.NS": {
+    "last_trained": "2026-05-19T21:39:25.036366+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NHPC.NS": {
+    "last_trained": "2026-05-19T21:39:25.055166+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NLCINDIA.NS": {
+    "last_trained": "2026-05-19T21:39:25.076522+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NYKAA.NS": {
+    "last_trained": "2026-05-19T21:39:25.097518+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "OBEROIRLTY.NS": {
+    "last_trained": "2026-05-19T21:39:25.119949+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "OFSS.NS": {
+    "last_trained": "2026-05-19T21:39:25.141096+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "OIL.NS": {
+    "last_trained": "2026-05-19T21:39:25.162180+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "OLECTRA.NS": {
+    "last_trained": "2026-05-19T21:39:25.182050+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PHOENIXLTD.NS": {
+    "last_trained": "2026-05-19T21:39:25.201680+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PRESTIGE.NS": {
+    "last_trained": "2026-05-19T21:39:25.223241+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PVRINOX.NS": {
+    "last_trained": "2026-05-19T21:39:25.243339+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RAIN.NS": {
+    "last_trained": "2026-05-19T21:39:25.265854+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RAJESHEXPO.NS": {
+    "last_trained": "2026-05-19T21:39:25.288069+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RAMCOCEM.NS": {
+    "last_trained": "2026-05-19T21:39:25.308294+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RITES.NS": {
+    "last_trained": "2026-05-19T21:39:25.326665+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SBICARD.NS": {
+    "last_trained": "2026-05-19T21:39:25.344962+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SCHAEFFLER.NS": {
+    "last_trained": "2026-05-19T21:39:25.365161+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SHREECEM.NS": {
+    "last_trained": "2026-05-19T21:39:25.386667+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SJVN.NS": {
+    "last_trained": "2026-05-19T21:39:25.406542+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SKFINDIA.NS": {
+    "last_trained": "2026-05-19T21:39:25.425797+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SOBHA.NS": {
+    "last_trained": "2026-05-19T21:39:25.442802+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SONACOMS.NS": {
+    "last_trained": "2026-05-19T21:39:25.459817+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "STARHEALTH.NS": {
+    "last_trained": "2026-05-19T21:39:25.479324+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SUMICHEM.NS": {
+    "last_trained": "2026-05-19T21:39:25.499180+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SUNDARMFIN.NS": {
+    "last_trained": "2026-05-19T21:39:25.521631+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SUNDRMFAST.NS": {
+    "last_trained": "2026-05-19T21:39:25.540572+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SUPREMEIND.NS": {
+    "last_trained": "2026-05-19T21:39:25.560105+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SYNGENE.NS": {
+    "last_trained": "2026-05-19T21:39:25.577440+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TATACOMM.NS": {
+    "last_trained": "2026-05-19T21:39:25.595179+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TATAELXSI.NS": {
+    "last_trained": "2026-05-19T21:39:25.614880+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TATAINVEST.NS": {
+    "last_trained": "2026-05-19T21:39:25.638798+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TATAPOWER.NS": {
+    "last_trained": "2026-05-19T21:39:25.660096+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TEAMLEASE.NS": {
+    "last_trained": "2026-05-19T21:39:25.681375+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "THERMAX.NS": {
+    "last_trained": "2026-05-19T21:39:25.704024+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TIINDIA.NS": {
+    "last_trained": "2026-05-19T21:39:25.725560+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TIMKEN.NS": {
+    "last_trained": "2026-05-19T21:39:25.744727+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TITAGARH.NS": {
+    "last_trained": "2026-05-19T21:39:25.763083+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TORNTPOWER.NS": {
+    "last_trained": "2026-05-19T21:39:25.784422+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TRIDENT.NS": {
+    "last_trained": "2026-05-19T21:39:25.804078+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "TRITURBINE.NS": {
+    "last_trained": "2026-05-19T21:39:25.829420+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "UJJIVANSFB.NS": {
+    "last_trained": "2026-05-19T21:39:25.853851+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "VGUARD.NS": {
+    "last_trained": "2026-05-19T21:39:25.874107+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "VBL.NS": {
+    "last_trained": "2026-05-19T21:39:25.896964+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "WHIRLPOOL.NS": {
+    "last_trained": "2026-05-19T21:39:25.915849+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "WOCKPHARMA.NS": {
+    "last_trained": "2026-05-19T21:39:25.936997+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ZEEL.NS": {
+    "last_trained": "2026-05-19T21:39:25.958488+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ZENTEC.NS": {
+    "last_trained": "2026-05-19T21:39:25.979077+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ZENSARTECH.NS": {
+    "last_trained": "2026-05-19T21:39:26.000803+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "3MINDIA.NS": {
+    "last_trained": "2026-05-19T21:39:26.023169+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AARTIDRUGS.NS": {
+    "last_trained": "2026-05-19T21:39:26.041193+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ABBOTINDIA.NS": {
+    "last_trained": "2026-05-19T21:39:26.062902+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AFFLE.NS": {
+    "last_trained": "2026-05-19T21:39:26.082688+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AJANTPHARM.NS": {
+    "last_trained": "2026-05-19T21:39:26.103294+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ALKEM.NS": {
+    "last_trained": "2026-05-19T21:39:26.123984+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AMBER.NS": {
+    "last_trained": "2026-05-19T21:39:26.148793+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ANGELONE.NS": {
+    "last_trained": "2026-05-19T21:39:26.168751+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "APOLLOTYRE.NS": {
+    "last_trained": "2026-05-19T21:39:26.190324+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "APTUS.NS": {
+    "last_trained": "2026-05-19T21:39:26.211820+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AVANTIFEED.NS": {
+    "last_trained": "2026-05-19T21:39:26.232228+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BASF.NS": {
+    "last_trained": "2026-05-19T21:39:26.251272+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BAYERCROP.NS": {
+    "last_trained": "2026-05-19T21:39:26.275279+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BBTC.NS": {
+    "last_trained": "2026-05-19T21:39:26.294385+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BLUEDART.NS": {
+    "last_trained": "2026-05-19T21:39:26.314658+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BLUESTARCO.NS": {
+    "last_trained": "2026-05-19T21:39:26.333307+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BRIGADE.NS": {
+    "last_trained": "2026-05-19T21:39:26.350253+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BSE.NS": {
+    "last_trained": "2026-05-19T21:39:26.371821+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CAMPUS.NS": {
+    "last_trained": "2026-05-19T21:39:26.391760+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CARBORUNIV.NS": {
+    "last_trained": "2026-05-19T21:39:26.411303+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CCL.NS": {
+    "last_trained": "2026-05-19T21:39:26.430643+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CHAMBLFERT.NS": {
+    "last_trained": "2026-05-19T21:39:26.449875+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CHEMCON.NS": {
+    "last_trained": "2026-05-19T21:39:26.466903+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CLEAN.NS": {
+    "last_trained": "2026-05-19T21:39:26.484780+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AAVAS.NS": {
+    "last_trained": "2026-05-19T21:39:26.505048+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ACCELYA.NS": {
+    "last_trained": "2026-05-19T21:39:26.522311+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ACE.NS": {
+    "last_trained": "2026-05-19T21:39:26.538027+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ADANIPOWER.NS": {
+    "last_trained": "2026-05-19T21:39:26.558209+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AETHER.NS": {
+    "last_trained": "2026-05-19T21:39:26.578088+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AGROPHOS.NS": {
+    "last_trained": "2026-05-19T21:39:26.597653+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AIIL.NS": {
+    "last_trained": "2026-05-19T21:39:26.618910+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AKZOINDIA.NS": {
+    "last_trained": "2026-05-19T21:39:26.641572+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ALANKIT.NS": {
+    "last_trained": "2026-05-19T21:39:26.658904+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ALEMBICLTD.NS": {
+    "last_trained": "2026-05-19T21:39:26.679974+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ALICON.NS": {
+    "last_trained": "2026-05-19T21:39:26.700868+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ALKYLAMINE.NS": {
+    "last_trained": "2026-05-19T21:39:26.719636+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ALLCARGO.NS": {
+    "last_trained": "2026-05-19T21:39:26.738711+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ANANTRAJ.NS": {
+    "last_trained": "2026-05-19T21:39:26.756121+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ANDHRSUGAR.NS": {
+    "last_trained": "2026-05-19T21:39:26.775549+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ANSALAPI.NS": {
+    "last_trained": "2026-05-19T21:39:26.794078+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "APARINDS.NS": {
+    "last_trained": "2026-05-19T21:39:26.811599+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "APOLLOPIPE.NS": {
+    "last_trained": "2026-05-19T21:39:26.829693+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ARCOTECH.NS": {
+    "last_trained": "2026-05-19T21:39:26.846648+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ARMANFIN.NS": {
+    "last_trained": "2026-05-19T21:39:26.864678+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ARROWGREEN.NS": {
+    "last_trained": "2026-05-19T21:39:26.884070+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ARVIND.NS": {
+    "last_trained": "2026-05-19T21:39:26.900704+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ARVINDFASN.NS": {
+    "last_trained": "2026-05-19T21:39:26.919816+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ASAHIINDIA.NS": {
+    "last_trained": "2026-05-19T21:39:26.942582+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ASALCBR.NS": {
+    "last_trained": "2026-05-19T21:39:26.961674+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ASHIANA.NS": {
+    "last_trained": "2026-05-19T21:39:26.980873+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ASHIMASYN.NS": {
+    "last_trained": "2026-05-19T21:39:26.997176+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ASKAUTOLTD.NS": {
+    "last_trained": "2026-05-19T21:39:27.017859+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ATGL.NS": {
+    "last_trained": "2026-05-19T21:39:27.034169+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AVTNPL.NS": {
+    "last_trained": "2026-05-19T21:39:27.050856+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AXISGOLD.NS": {
+    "last_trained": "2026-05-19T21:39:27.066663+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "AZAD.NS": {
+    "last_trained": "2026-05-19T21:39:27.083197+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BAJAJCON.NS": {
+    "last_trained": "2026-05-19T21:39:27.102805+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BALAJITELE.NS": {
+    "last_trained": "2026-05-19T21:39:27.121919+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BALMLAWRIE.NS": {
+    "last_trained": "2026-05-19T21:39:27.137591+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BANARISUG.NS": {
+    "last_trained": "2026-05-19T21:39:27.154555+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BANSWRAS.NS": {
+    "last_trained": "2026-05-19T21:39:27.174801+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BASML.NS": {
+    "last_trained": "2026-05-19T21:39:27.196680+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BEML.NS": {
+    "last_trained": "2026-05-19T21:39:27.221223+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BFUTILITIE.NS": {
+    "last_trained": "2026-05-19T21:39:27.244671+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BHAGCHEM.NS": {
+    "last_trained": "2026-05-19T21:39:27.268183+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BHANDARI.NS": {
+    "last_trained": "2026-05-19T21:39:27.291115+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BHARATFORG.NS": {
+    "last_trained": "2026-05-19T21:39:27.322981+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BHARATRAS.NS": {
+    "last_trained": "2026-05-19T21:39:27.348603+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BIKAJI.NS": {
+    "last_trained": "2026-05-19T21:39:27.374292+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BIRLACORPN.NS": {
+    "last_trained": "2026-05-19T21:39:27.396356+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BKMINDST.NS": {
+    "last_trained": "2026-05-19T21:39:27.418157+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "BOROLTD.NS": {
+    "last_trained": "2026-05-19T21:39:27.440966+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CRAFTSMAN.NS": {
+    "last_trained": "2026-05-19T21:39:27.462980+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CRISIL.NS": {
+    "last_trained": "2026-05-19T21:39:27.485014+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "CYIENTDLM.NS": {
+    "last_trained": "2026-05-19T21:39:27.505556+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DALMIASUG.NS": {
+    "last_trained": "2026-05-19T21:39:27.526779+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DATAMATICS.NS": {
+    "last_trained": "2026-05-19T21:39:27.546000+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DBCORP.NS": {
+    "last_trained": "2026-05-19T21:39:27.563865+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DCMSHRIRAM.NS": {
+    "last_trained": "2026-05-19T21:39:27.587747+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DOMS.NS": {
+    "last_trained": "2026-05-19T21:39:27.611632+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DREDGECORP.NS": {
+    "last_trained": "2026-05-19T21:39:27.629068+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "DYNAMATECH.NS": {
+    "last_trained": "2026-05-19T21:39:27.650287+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "EASEMYTRIP.NS": {
+    "last_trained": "2026-05-19T21:39:27.669437+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "EIDPARRY.NS": {
+    "last_trained": "2026-05-19T21:39:27.687726+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ELECON.NS": {
+    "last_trained": "2026-05-19T21:39:27.707987+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "EMKAYTOOLS.NS": {
+    "last_trained": "2026-05-19T21:39:27.727556+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ENDURANCE.NS": {
+    "last_trained": "2026-05-19T21:39:27.747131+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ENIL.NS": {
+    "last_trained": "2026-05-19T21:39:27.767244+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "EPIGRAL.NS": {
+    "last_trained": "2026-05-19T21:39:27.786851+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "EQUITASBNK.NS": {
+    "last_trained": "2026-05-19T21:39:27.806256+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ESSARSHPNG.NS": {
+    "last_trained": "2026-05-19T21:39:27.825094+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ETHOSLTD.NS": {
+    "last_trained": "2026-05-19T21:39:27.846058+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "FCSSOFT.NS": {
+    "last_trained": "2026-05-19T21:39:27.866525+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "FINEORG.NS": {
+    "last_trained": "2026-05-19T21:39:27.886700+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "FINOPB.NS": {
+    "last_trained": "2026-05-19T21:39:27.907776+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "FLFL.NS": {
+    "last_trained": "2026-05-19T21:39:27.929640+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GANDHAR.NS": {
+    "last_trained": "2026-05-19T21:39:27.951817+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GARFIBRES.NS": {
+    "last_trained": "2026-05-19T21:39:27.973315+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GEOJITFSL.NS": {
+    "last_trained": "2026-05-19T21:39:27.992704+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GHCL.NS": {
+    "last_trained": "2026-05-19T21:39:28.014366+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GLOBUSSPR.NS": {
+    "last_trained": "2026-05-19T21:39:28.037304+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GNFC.NS": {
+    "last_trained": "2026-05-19T21:39:28.058980+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GPIL.NS": {
+    "last_trained": "2026-05-19T21:39:28.083134+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GPTINFRA.NS": {
+    "last_trained": "2026-05-19T21:39:28.106283+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GRAPHITE.NS": {
+    "last_trained": "2026-05-19T21:39:28.128541+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GRAVITA.NS": {
+    "last_trained": "2026-05-19T21:39:28.150076+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GREENPOWER.NS": {
+    "last_trained": "2026-05-19T21:39:28.172108+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GREENPANEL.NS": {
+    "last_trained": "2026-05-19T21:39:28.198286+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GRINFRA.NS": {
+    "last_trained": "2026-05-19T21:39:28.221425+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GRSE.NS": {
+    "last_trained": "2026-05-19T21:39:28.242931+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GTLINFRA.NS": {
+    "last_trained": "2026-05-19T21:39:28.264410+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GUFICBIO.NS": {
+    "last_trained": "2026-05-19T21:39:28.286389+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "GULFOILLUB.NS": {
+    "last_trained": "2026-05-19T21:39:28.306841+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HARDWYN.NS": {
+    "last_trained": "2026-05-19T21:39:28.328113+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HATHWAY.NS": {
+    "last_trained": "2026-05-19T21:39:28.349254+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HEMIPROP.NS": {
+    "last_trained": "2026-05-19T21:39:28.373483+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HERITGFOOD.NS": {
+    "last_trained": "2026-05-19T21:39:28.395859+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HIKAL.NS": {
+    "last_trained": "2026-05-19T21:39:28.413431+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HIRECT.NS": {
+    "last_trained": "2026-05-19T21:39:28.434700+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HLEGLAS.NS": {
+    "last_trained": "2026-05-19T21:39:28.456231+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HMT.NS": {
+    "last_trained": "2026-05-19T21:39:28.475604+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "HOMEFIRST.NS": {
+    "last_trained": "2026-05-19T21:39:28.495897+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ICICIB22.NS": {
+    "last_trained": "2026-05-19T21:39:28.516209+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IDEAFORGE.NS": {
+    "last_trained": "2026-05-19T21:39:28.533130+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IGPL.NS": {
+    "last_trained": "2026-05-19T21:39:28.554263+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IITL.NS": {
+    "last_trained": "2026-05-19T21:39:28.572108+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IMAGICAA.NS": {
+    "last_trained": "2026-05-19T21:39:28.589888+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IMFA.NS": {
+    "last_trained": "2026-05-19T21:39:28.610962+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INDIACEM.NS": {
+    "last_trained": "2026-05-19T21:39:28.629937+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INDIGOPNTS.NS": {
+    "last_trained": "2026-05-19T21:39:28.647050+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INDORAMA.NS": {
+    "last_trained": "2026-05-19T21:39:28.666609+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INDOSTAR.NS": {
+    "last_trained": "2026-05-19T21:39:28.684195+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INSECTICID.NS": {
+    "last_trained": "2026-05-19T21:39:28.706314+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INTELLECT.NS": {
+    "last_trained": "2026-05-19T21:39:28.727270+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "INVENTURE.NS": {
+    "last_trained": "2026-05-19T21:39:28.749422+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IPCALAB.NS": {
+    "last_trained": "2026-05-19T21:39:28.768931+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IPL.NS": {
+    "last_trained": "2026-05-19T21:39:28.789431+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IRCON.NS": {
+    "last_trained": "2026-05-19T21:39:28.811715+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "IRB.NS": {
+    "last_trained": "2026-05-19T21:39:28.830961+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ISFT.NS": {
+    "last_trained": "2026-05-19T21:39:28.848406+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ITDC.NS": {
+    "last_trained": "2026-05-19T21:39:28.873070+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "J&KBANK.NS": {
+    "last_trained": "2026-05-19T21:39:28.893024+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JAICORPLTD.NS": {
+    "last_trained": "2026-05-19T21:39:28.914809+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JAMNAAUTO.NS": {
+    "last_trained": "2026-05-19T21:39:28.938301+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JAYAGROGN.NS": {
+    "last_trained": "2026-05-19T21:39:28.958864+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JAYNECOIND.NS": {
+    "last_trained": "2026-05-19T21:39:28.981703+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JBCHEPHARM.NS": {
+    "last_trained": "2026-05-19T21:39:29.001698+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JBMA.NS": {
+    "last_trained": "2026-05-19T21:39:29.023956+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JKIL.NS": {
+    "last_trained": "2026-05-19T21:39:29.046037+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JKLAKSHMI.NS": {
+    "last_trained": "2026-05-19T21:39:29.069725+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JKPAPER.NS": {
+    "last_trained": "2026-05-19T21:39:29.102842+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JKTYRE.NS": {
+    "last_trained": "2026-05-19T21:39:29.132079+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JMFINANCIL.NS": {
+    "last_trained": "2026-05-19T21:39:29.158803+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JPPOWER.NS": {
+    "last_trained": "2026-05-19T21:39:29.185653+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JSWENERGY.NS": {
+    "last_trained": "2026-05-19T21:39:29.209204+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JTEKTINDIA.NS": {
+    "last_trained": "2026-05-19T21:39:29.236062+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JUBLINGREA.NS": {
+    "last_trained": "2026-05-19T21:39:29.258706+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JUSTDIAL.NS": {
+    "last_trained": "2026-05-19T21:39:29.281536+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JYOTHYLAB.NS": {
+    "last_trained": "2026-05-19T21:39:29.301635+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "JYOTISTRUC.NS": {
+    "last_trained": "2026-05-19T21:39:29.323032+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KABRAEXTRU.NS": {
+    "last_trained": "2026-05-19T21:39:29.344764+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KANORICHEM.NS": {
+    "last_trained": "2026-05-19T21:39:29.364754+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KAYNES.NS": {
+    "last_trained": "2026-05-19T21:39:29.384683+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KESORAMIND.NS": {
+    "last_trained": "2026-05-19T21:39:29.407118+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KFINTECH.NS": {
+    "last_trained": "2026-05-19T21:39:29.428970+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KHAITANLTD.NS": {
+    "last_trained": "2026-05-19T21:39:29.451244+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KHADIM.NS": {
+    "last_trained": "2026-05-19T21:39:29.474151+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KITEX.NS": {
+    "last_trained": "2026-05-19T21:39:29.494624+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KNRCON.NS": {
+    "last_trained": "2026-05-19T21:39:29.516225+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KPIL.NS": {
+    "last_trained": "2026-05-19T21:39:29.539757+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KRBL.NS": {
+    "last_trained": "2026-05-19T21:39:29.562419+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "KSCL.NS": {
+    "last_trained": "2026-05-19T21:39:29.585287+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LATENTVIEW.NS": {
+    "last_trained": "2026-05-19T21:39:29.608649+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LEMONTREE.NS": {
+    "last_trained": "2026-05-19T21:39:29.629315+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LGBBROSLTD.NS": {
+    "last_trained": "2026-05-19T21:39:29.650671+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LLOYDSENGG.NS": {
+    "last_trained": "2026-05-19T21:39:29.673057+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LOTUSEYE.NS": {
+    "last_trained": "2026-05-19T21:39:29.694133+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "LUXIND.NS": {
+    "last_trained": "2026-05-19T21:39:29.717245+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MAHAPEXLTD.NS": {
+    "last_trained": "2026-05-19T21:39:29.740420+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MANAPPURAM.NS": {
+    "last_trained": "2026-05-19T21:39:29.765209+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MANGLMCEM.NS": {
+    "last_trained": "2026-05-19T21:39:29.785828+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MANINDS.NS": {
+    "last_trained": "2026-05-19T21:39:29.810108+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MANKIND.NS": {
+    "last_trained": "2026-05-19T21:39:29.832641+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MARATHON.NS": {
+    "last_trained": "2026-05-19T21:39:29.854526+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MARKSANS.NS": {
+    "last_trained": "2026-05-19T21:39:29.876831+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MASTEK.NS": {
+    "last_trained": "2026-05-19T21:39:29.900417+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MATRIMONY.NS": {
+    "last_trained": "2026-05-19T21:39:29.923261+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MAYURUNIQ.NS": {
+    "last_trained": "2026-05-19T21:39:29.947156+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MEDPLUS.NS": {
+    "last_trained": "2026-05-19T21:39:29.969173+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MIDHANI.NS": {
+    "last_trained": "2026-05-19T21:39:29.991559+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MITCON.NS": {
+    "last_trained": "2026-05-19T21:39:30.015577+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MMTC.NS": {
+    "last_trained": "2026-05-19T21:39:30.036791+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MOIL.NS": {
+    "last_trained": "2026-05-19T21:39:30.059415+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MRPL.NS": {
+    "last_trained": "2026-05-19T21:39:30.081231+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MSTCLTD.NS": {
+    "last_trained": "2026-05-19T21:39:30.102483+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "MUTHOOTCAP.NS": {
+    "last_trained": "2026-05-19T21:39:30.123103+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NACLIND.NS": {
+    "last_trained": "2026-05-19T21:39:30.146084+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NAGAFERT.NS": {
+    "last_trained": "2026-05-19T21:39:30.168906+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NAVINFLUOR.NS": {
+    "last_trained": "2026-05-19T21:39:30.197987+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NESCO.NS": {
+    "last_trained": "2026-05-19T21:39:30.221322+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NETWORK18.NS": {
+    "last_trained": "2026-05-19T21:39:30.245714+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NIACL.NS": {
+    "last_trained": "2026-05-19T21:39:30.269041+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NIITLTD.NS": {
+    "last_trained": "2026-05-19T21:39:30.293155+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NIRAJ.NS": {
+    "last_trained": "2026-05-19T21:39:30.322369+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NOCIL.NS": {
+    "last_trained": "2026-05-19T21:39:30.346164+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "NUVOCO.NS": {
+    "last_trained": "2026-05-19T21:39:30.370780+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "OPTIEMUS.NS": {
+    "last_trained": "2026-05-19T21:39:30.397346+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ORISSAMINE.NS": {
+    "last_trained": "2026-05-19T21:39:30.422508+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PALREDTEC.NS": {
+    "last_trained": "2026-05-19T21:39:30.448121+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PANAMAPET.NS": {
+    "last_trained": "2026-05-19T21:39:30.471943+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PATELENG.NS": {
+    "last_trained": "2026-05-19T21:39:30.495239+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PATINTLOG.NS": {
+    "last_trained": "2026-05-19T21:39:30.518264+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PCJEWELLER.NS": {
+    "last_trained": "2026-05-19T21:39:30.538468+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PDSL.NS": {
+    "last_trained": "2026-05-19T21:39:30.558409+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PENIND.NS": {
+    "last_trained": "2026-05-19T21:39:30.580175+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PGIL.NS": {
+    "last_trained": "2026-05-19T21:39:30.601399+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PILANIINVS.NS": {
+    "last_trained": "2026-05-19T21:39:30.619697+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PLASTIBLEN.NS": {
+    "last_trained": "2026-05-19T21:39:30.640560+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "POKARNA.NS": {
+    "last_trained": "2026-05-19T21:39:30.661715+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "POLYMED.NS": {
+    "last_trained": "2026-05-19T21:39:30.679761+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "POONAWALLA.NS": {
+    "last_trained": "2026-05-19T21:39:30.700662+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "POWERMECH.NS": {
+    "last_trained": "2026-05-19T21:39:30.722273+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PRAKASH.NS": {
+    "last_trained": "2026-05-19T21:39:30.741955+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PRICOLLTD.NS": {
+    "last_trained": "2026-05-19T21:39:30.760920+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PRINCEPIPE.NS": {
+    "last_trained": "2026-05-19T21:39:30.782708+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PRIVISCL.NS": {
+    "last_trained": "2026-05-19T21:39:30.804201+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PSPPROJECT.NS": {
+    "last_trained": "2026-05-19T21:39:30.825382+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PTCIL.NS": {
+    "last_trained": "2026-05-19T21:39:30.846839+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "PURVA.NS": {
+    "last_trained": "2026-05-19T21:39:30.867180+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "QUESS.NS": {
+    "last_trained": "2026-05-19T21:39:30.886303+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RADICO.NS": {
+    "last_trained": "2026-05-19T21:39:30.908928+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RAILTEL.NS": {
+    "last_trained": "2026-05-19T21:39:30.928220+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RAJRATAN.NS": {
+    "last_trained": "2026-05-19T21:39:30.948687+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RAJSREESUG.NS": {
+    "last_trained": "2026-05-19T21:39:30.968578+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RALLIS.NS": {
+    "last_trained": "2026-05-19T21:39:30.986862+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RAMCOIND.NS": {
+    "last_trained": "2026-05-19T21:39:31.005885+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RATNAMANI.NS": {
+    "last_trained": "2026-05-19T21:39:31.027157+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RAYMOND.NS": {
+    "last_trained": "2026-05-19T21:39:31.046920+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RBA.NS": {
+    "last_trained": "2026-05-19T21:39:31.068071+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RBLBANK.NS": {
+    "last_trained": "2026-05-19T21:39:31.092315+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "REDINGTON.NS": {
+    "last_trained": "2026-05-19T21:39:31.112329+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RESPONIND.NS": {
+    "last_trained": "2026-05-19T21:39:31.134134+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RKFORGE.NS": {
+    "last_trained": "2026-05-19T21:39:31.154904+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "ROHLTD.NS": {
+    "last_trained": "2026-05-19T21:39:31.178361+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RUPA.NS": {
+    "last_trained": "2026-05-19T21:39:31.200253+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "RUSHIL.NS": {
+    "last_trained": "2026-05-19T21:39:31.225736+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SAFARI.NS": {
+    "last_trained": "2026-05-19T21:39:31.249027+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SALZERELEC.NS": {
+    "last_trained": "2026-05-19T21:39:31.269372+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SANOFI.NS": {
+    "last_trained": "2026-05-19T21:39:31.292377+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SAPPHIRE.NS": {
+    "last_trained": "2026-05-19T21:39:31.313536+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SAREGAMA.NS": {
+    "last_trained": "2026-05-19T21:39:31.338249+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SATIA.NS": {
+    "last_trained": "2026-05-19T21:39:31.361440+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SBFC.NS": {
+    "last_trained": "2026-05-19T21:39:31.385712+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SHAKTIPUMP.NS": {
+    "last_trained": "2026-05-19T21:39:31.410500+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SHANTIGEAR.NS": {
+    "last_trained": "2026-05-19T21:39:31.439934+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SHARDACROP.NS": {
+    "last_trained": "2026-05-19T21:39:31.468213+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SHAREINDIA.NS": {
+    "last_trained": "2026-05-19T21:39:31.493763+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SHILPAMED.NS": {
+    "last_trained": "2026-05-19T21:39:31.518827+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SHREDIGCEM.NS": {
+    "last_trained": "2026-05-19T21:39:31.548724+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  },
+  "SIGIND.NS": {
+    "last_trained": "2026-05-19T21:39:31.572312+00:00",
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "data_start": "",
+    "data_end": "",
+    "rows": 0,
+    "note": "Pre-existing model, registered when metadata system started"
+  }
+}

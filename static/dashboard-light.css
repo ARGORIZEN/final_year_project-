@@ -260,6 +260,23 @@ body.light-theme::after { display: none !important; }
     margin-top: 0.2rem; width: fit-content;
 }
 
+.stock-card-prediction {
+    display: inline-block;
+    font-size: 0.55rem; font-weight: 800; padding: 0.15rem 0.45rem;
+    border-radius: 4px; text-transform: uppercase; letter-spacing: 0.5px;
+    margin-top: 0.2rem; width: fit-content;
+}
+
+.stock-card-prediction.bullish {
+    color: #10b981;
+    background: #d1fae5;
+}
+
+.stock-card-prediction.bearish {
+    color: #ef4444;
+    background: #fee2e2;
+}
+
 /* ───────── Footer ───────── */
 .dash-footer {
     text-align: center; padding: 2rem 0;
